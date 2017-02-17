@@ -1,6 +1,6 @@
 {
     "name": "indiewordpress/composer",
-    "description": "Composer version of the *IndieWeb for WordPress* plugin!",
+    "description": "Composer version of the 'IndieWeb for WordPress' plugin!",
     "type": "wordpress-plugin",
     "extra": {
         "installer-name": "indieweb-composer"
@@ -8,8 +8,7 @@
     "require": {
         "pfefferle/wordpress-webmention": "*",
         "pfefferle/wordpress-webmention-for-comments": "*",
-        "pfefferle/wordpress-semantic-linkbacks": "*",
-        "composer/installers": "~1.0"
+        "pfefferle/wordpress-semantic-linkbacks": "*"
     },
     "license": "MIT"
 }
