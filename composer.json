@@ -7,7 +7,6 @@
     },
     "require": {
         "pfefferle/wordpress-webmention": "*",
-        "pfefferle/wordpress-webmention-for-comments": "*",
         "pfefferle/wordpress-semantic-linkbacks": "*"
     },
     "license": "MIT"
