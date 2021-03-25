@@ -6,6 +6,7 @@
         "pfefferle/wordpress-semantic-linkbacks": "*",
         "indieweb/wordpress-indieauth": "*",
         "indieweb/wordpress-mf2-feed": "*",
+        "indieweb/wordpress-micropub": "*",
 
         "pfefferle/wordpress-autonomie": "dev-master"
     },
