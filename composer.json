@@ -7,7 +7,7 @@
         "indieweb/wordpress-indieauth": "*",
         "indieweb/wordpress-mf2-feed": "*",
 
-        "pfefferle/autonomie": "*"
+        "pfefferle/wordpress-autonomie": "dev-master"
     },
     "license": "MIT"
 }
